@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Hiren Panchal
 
-<!--
-**GovindPanchal08/GovindPanchal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | MERN Stack Enthusiast | Real-Time App Builder  
+🧠 Learning Deep: Backend Architecture | Advanced React | JavaScript Fundamentals  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I've created
+- 💻 **Final Year Project:** Real-Time Collaborative Code Editor (React, Socket.IO, ZegoCloud)  
+- 🧠 **Mini Game:** Memory Match Game using Vanilla JavaScript  
+- 📊 **Task Manager:** Kanban-style board with real-time updates & WebSocket integration  
+- 💰 **Expense Tracker:** Python Flask + MySQL backend, Chart.js visualization
+
+
+---
+
+## 🌱 Currently Diving Deep Into
+- 🔍 Backend with Node.js, Express & MongoDB (API design, DB schemas, JWT auth)  
+- ⚛️ Advanced React Patterns (Custom Hooks, Code Splitting, Optimization)  
+- 🎯 Pure JavaScript Projects (no frameworks — building logic from scratch)  
+- 🧮 Problem Solving with DSA (arrays, strings, recursion, real-world patterns) 
+
+---
+
+## 💬 Ask Me About
+- React.js, JavaScript (ES6+), WebSocket, CSS Animations  
+- Full-Stack Project Design & Clean UI Architecture  
+- How I built my real-time code editor from scratch 🚀
+
+---
+
+## 📫 Reach Me
+- Email: panchalhiren053@gmail.com 
+- LinkedIn: [linkedin.com/in/hirenpanchal](https://www.linkedin.com/in/hiren-panchal-042987252/)  
+- Portfolio: [yourportfolio.com](https://hirenpanchal.vercel.app/) *(optional)*  
+
+---
+
+## 📊 GitHub Stats
+
+> **This GitHub:**  
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername1&show_icons=true&theme=radical)
+
+> **Other GitHub (learning-focused):**  
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername2&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Featured Projects
+
+| Project | Tech Stack | Links |
+|--------|------------|-------|
+| **Real-Time Code Editor** | React, Socket.IO, ZegoCloud | [GitHub](https://github.com/yourusername/editor) • [Demo](https://editor-demo.com) |
+| **Memory Match Game** | HTML, CSS, JavaScript | [GitHub](https://github.com/yourusername/memory-game) |
+| **Task Manager** | HTML, JS, WebSocket, Node.js | [GitHub](https://github.com/yourusername/task-manager) |
+| **Expense Tracker** | Python Flask, MySQL, Chart.js | [GitHub](https://github.com/yourusername/expense-tracker) |
+
+---
+
+### ⚡ Fun Fact
+
+> I love building in public and believe in learning by doing — getting my hands dirty daily with real-world problems, edge cases, and debugging deep dives and  DsA.. 😎
