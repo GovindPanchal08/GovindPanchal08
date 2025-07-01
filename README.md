@@ -34,15 +34,6 @@
 - LinkedIn: [linkedin.com/in/hirenpanchal](https://www.linkedin.com/in/hiren-panchal-042987252/)  
 - Portfolio: [yourportfolio.com](https://hirenpanchal.vercel.app/) *(optional)*  
 
----
-
-## 📊 GitHub Stats
-
-> **This GitHub:**  
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername1&show_icons=true&theme=radical)
-
-> **Other GitHub (learning-focused):**  
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername2&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -55,6 +46,7 @@
 | **Task Manager** | HTML, JS, WebSocket, Node.js | [GitHub](https://github.com/yourusername/task-manager) |
 | **Expense Tracker** | Python Flask, MySQL, Chart.js | [GitHub](https://github.com/yourusername/expense-tracker) |
 
+ No Link Add Yet!
 ---
 
 ### ⚡ Fun Fact
